@@ -39,24 +39,18 @@ If you haven't installed Git yet. Don't worry, we have some scripts for you that
 
 NOTE: Use the username and email you use for Github or it would lead to errors!
 
+### For Windows
+
+Run this in an Admin Powershell
+```
+Invoke-RestMethod -Uri "https://gist.githubusercontent.com/Prana-vvb/b2602c1aafb692691a88d167a1d9f645/raw" | Out-File -FilePath "setup.ps1"; .\setup.ps1
+```
+
 ### For Linux/MacOS
 
 Run the below command:
 ```
-curl -sS https://gist.githubusercontent.com/Prana-vvb/5f48ae8e1173f7b1db105d80c70c2542/raw/10241f14b24427834cebd24128a4fa801fdac148/setup_unix.sh | bash
-```
-
-### For Windows
-
-Make sure [Git](https://git-scm.com/) is installed before that!
-
-Then,
-- Open Powershell as admin
-- Make sure to run `Set-ExecutionPolicy Unrestricted` first
-- Run the below command
-
-```
-curl -sS https://gist.githubusercontent.com/Prana-vvb/b2602c1aafb692691a88d167a1d9f645/raw/dfaa4f7899b5531d6f9b9993267dc25f841ee4ce/setup_windows.ps1 | powershell -
+bash <(curl -sS https://gist.githubusercontent.com/Prana-vvb/5f48ae8e1173f7b1db105d80c70c2542/raw/10241f14b24427834cebd24128a4fa801fdac148/setup_unix.sh)
 ```
 
 **NOTE: If all these methods fail, do look at something called GITHUB DESKTOP. It's just a Google Search away** ^^
