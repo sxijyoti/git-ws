@@ -194,14 +194,14 @@ Then, write a description of the changes you made, double-check the branches at 
 
 ![Image of Pull Request](https://i.ibb.co/SwWy1FKD/PR-img.png)
 
+## More places to learn from!
+- [Git Cheatsheet](https://git-scm.com/cheat-sheet)
+- [Official Git documentation](https://git-scm.com/doc)
+- [Git up and running - Anirudh Rowjee](https://rowjee.com/blog/git_up_and_running)
+
 
 That brings us to the end of the blog.
 
 We’ve covered most of the basics of Git and GitHub here. There’s still a lot more to explore, for example, things like merge conflicts, rebasing and deeper Git workflows.
 
 Maybe we’ll dive into those in our next Git blog! ^^
-
-## More places to learn from!
-- [Git Cheatsheet](https://git-scm.com/cheat-sheet)
-- [Official Git documentation](https://git-scm.com/doc)
-- [Git up and running - Anirudh Rowjee](https://rowjee.com/blog/git_up_and_running)
