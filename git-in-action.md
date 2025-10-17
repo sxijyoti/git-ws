@@ -2,7 +2,7 @@
 title: 'Git in Action!'
 description: 'Basics of Git and Github'
 authors: Saijyoti Panda, Pranav V Bhat
-tags: ['git', github, 'open-source']
+tags: ['git', github, 'open-source', 'hacknight7.0']
 date: '2025-10-17'
 ---
 
@@ -26,7 +26,7 @@ Think of it as a time machine for your code where you can go back, explore past 
 
 Isn't it cool to have the power to jump back to any version of your project, whenever you want?
 
-And when you power Git with Github, it opens the door to a world of endless possibilities. We mean:
+And when you power Git with Github, it opens the door to a world of endless possibilities!
 - You can share your projects online so anyone can see or use them.
 - You can collaborate globally on projects with friends or contributors.
 - You can contribute to open-source projects and learn from code written by others.
@@ -37,7 +37,8 @@ You are no longer restricted to your just friends or your college. The world is 
 
 If you haven't installed Git yet, don't worry! We have some scripts for you that you could run to download Git and also set an SSH key for the same!
 
-NOTE: Use the username and email you use for Github, or it would lead to errors!
+> [!NOTE]
+> Use the username and email you use for Github, or it would lead to errors!
 
 ### For Windows
 
@@ -46,7 +47,6 @@ Run this in as Admin in Powershell:
 ```
 Invoke-RestMethod -Uri "https://gist.githubusercontent.com/Prana-vvb/b2602c1aafb692691a88d167a1d9f645/raw" | Out-File -FilePath "setup.ps1"; .\setup.ps1
 ```
-
 ### For Linux/MacOS
 
 Run the below command:
@@ -63,7 +63,8 @@ ssh -T git@github.com
 ```
 You should see `Hi <your-username>! You've successfully authenticated, but GitHub does not provide shell access.`
 
-**NOTE: If all these methods fail, do look at something called GITHUB DESKTOP. It's just a Google Search away** ^^
+> [!NOTE]
+> If all these methods fail, do look at something called GITHUB DESKTOP. It's just a Google Search away ^^
 
 ## Creating a Repository
 
@@ -111,7 +112,8 @@ and where do you find this URL?
 
 ![Image of Clone links](https://i.ibb.co/VcYhZQNK/clone-layout.png)
 
-NOTE: Click on SSH and copy link if you have the SSH Setup!
+> [!NOTE]
+> Click on SSH and copy link if you have the SSH Setup!
 
 ## Working with Branches
 
