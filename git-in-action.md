@@ -14,7 +14,7 @@ That’s where Git and Github come in. They make saving changes, sharing and col
 
 If you ever made a project, you would be familiar with something like this:
 
-![Multiple project folders showing version chaos](https://i.ibb.co/dJcyCCRS/chaos-wo-git.png)
+![Multiple project folders showing version chaos](https://i.ibb.co/PZ56vGK4/folder-chaos.png)
 
 Git lets you unify all this into a **SINGLE** folder!
 
