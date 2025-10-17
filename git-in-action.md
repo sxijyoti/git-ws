@@ -45,7 +45,7 @@ If you haven't installed Git yet, don't worry! We have some scripts for you that
 Run this in as Admin in Powershell:
 
 ```
-Invoke-RestMethod -Uri "https://gist.githubusercontent.com/Prana-vvb/b2602c1aafb692691a88d167a1d9f645/raw" | Out-File -FilePath "setup.ps1"; .\setup.ps1
+Invoke-RestMethod -Uri "https://gist.githubusercontent.com/Prana-vvb/b2602c1aafb692691a88d167a1d9f645/raw/523f2fd69f58a0ecf0c43a251d0320d5fc21775b/setup_windows.ps1" | Out-File -FilePath "setup.ps1"; .\setup.ps1
 ```
 ### For Linux/MacOS
 
