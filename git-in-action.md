@@ -54,6 +54,7 @@ Run the below command:
 ```
 bash <(curl -sS https://gist.githubusercontent.com/Prana-vvb/5f48ae8e1173f7b1db105d80c70c2542/raw/10241f14b24427834cebd24128a4fa801fdac148/setup_unix.sh)
 ```
+
 Copy your public key and add it to GitHub:
 Go to GitHub > Settings > SSH and GPG keys > New SSH key, and paste it there.
 
@@ -199,3 +200,8 @@ That brings us to the end of the blog.
 We’ve covered most of the basics of Git and GitHub here. There’s still a lot more to explore, for example, things like merge conflicts, rebasing and deeper Git workflows.
 
 Maybe we’ll dive into those in our next Git blog! ^^
+
+## More places to learn from!
+- [Git Cheatsheet](https://git-scm.com/cheat-sheet)
+- [Official Git documentation](https://git-scm.com/doc)
+- [Git up and running - Anirudh Rowjee](https://rowjee.com/blog/git_up_and_running)
