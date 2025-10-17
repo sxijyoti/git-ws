@@ -155,7 +155,8 @@ git commit -m "Describe your changes"
 ```
 We recommend using [Commit Conventions](https://www.conventionalcommits.org/) to keep your messages clear.
 
-Tip: Pull latest changes before you start work and before you push, to avoid conflicts and keep your branch up to date.
+> [!Tip]
+> Pull latest changes before you start work and before you push, to avoid conflicts and keep your branch up to date.
 
 ```
 # If you're working directly on main
