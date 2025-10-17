@@ -6,9 +6,9 @@ tags: ['git', github, 'open-source']
 date: '2025-10-17'
 ---
 
-Have you ever worked on a project and broken something but couldn't go back? Or wanted to share your code with the world but weren't able to?
+Have you ever broken something in your project and wished you could go back in time? Or wanted to share your code with the world but weren't able to?
 
-That’s where Git and Github comes in, they make saving changes, sharing and collaborating easy.
+That’s where Git and Github come in. They make saving changes, sharing and collaborating easy :D
 
 ## Why Git? And What Is It Anyway?
 
@@ -54,7 +54,6 @@ Run the below command:
 ```
 bash <(curl -sS https://gist.githubusercontent.com/Prana-vvb/5f48ae8e1173f7b1db105d80c70c2542/raw/10241f14b24427834cebd24128a4fa801fdac148/setup_unix.sh)
 ```
-
 Copy your public key and add it to GitHub:
 Go to GitHub > Settings > SSH and GPG keys > New SSH key, and paste it there.
 
@@ -176,7 +175,7 @@ An example:
 
 <img src="https://i.ibb.co/vCqzQshh/commit-example.jpg" alt="Commit" width="350" />
 
-## Pull Requests
+## Push Requests
 
 Once you’ve made changes on your branch and committed them, it’s time to **share your work** with the original project. That’s what a Pull Request (PR) does.
 
@@ -194,7 +193,8 @@ Then, write a description of the changes you made, double-check the branches at 
 
 ![Image of Pull Request](https://i.ibb.co/SwWy1FKD/PR-img.png)
 
-## More places to learn from!
+
+### More places to learn from!
 - [Git Cheatsheet](https://git-scm.com/cheat-sheet)
 - [Official Git documentation](https://git-scm.com/doc)
 - [Git up and running - Anirudh Rowjee](https://rowjee.com/blog/git_up_and_running)
