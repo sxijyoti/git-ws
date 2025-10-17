@@ -175,7 +175,7 @@ An example:
 
 <img src="https://i.ibb.co/vCqzQshh/commit-example.jpg" alt="Commit" width="350" />
 
-## Push Requests
+## Pull Requests
 
 Once you’ve made changes on your branch and committed them, it’s time to **share your work** with the original project. That’s what a Pull Request (PR) does.
 
